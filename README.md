@@ -20,25 +20,26 @@
 
 <br/>
 <br/>
-
+<div
 <a href="https://github.com/nk112233">
   <img width = "50%" height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk112233&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
 </a>
 <a href="https://github.com/nk112233">
   <img width = "50%" height="180"  src="https://github-readme-stats.vercel.app/api?username=nk112233&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
 </a>
-
+</div>
 <br/>
 <br/>
 
 ### Top Repositories : 
+<div
 <a href="https://github.com/nk112233/DSAL">
   <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=DSAL&theme=radical" />
 </a>
 <a href="https://github.com/nk112233/OOPL">
   <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=OOPL&theme=radical" />
 </a>
-
+</div>
 <br/>
 <br/>
 
