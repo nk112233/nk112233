@@ -33,10 +33,10 @@
 
 ### Top Repositories : 
 <a href="https://github.com/nk112233/DSAL">
-  <img height="135" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=DSAL&theme=radical" />
+  <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=DSAL&theme=radical" />
 </a>
 <a href="https://github.com/nk112233/OOPL">
-  <img height="135" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=OOPL&theme=radical" />
+  <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=OOPL&theme=radical" />
 </a>
 
 <br/>
