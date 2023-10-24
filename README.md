@@ -1,4 +1,4 @@
-<img src = "[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=40&duration=1000&pause=400&color=7133FF&center=true&multiline=true&random=false&width=500&height=100&lines=Hi+I'm;NIKUNJ)](https://git.io/typing-svg)">
+<img src = "https://readme-typing-svg.demolab.com?font=Teko&size=40&duration=1000&pause=400&color=7133FF&center=true&multiline=true&random=false&width=500&height=100&lines=Hi+I'm;NIKUNJ)](https://git.io/typing-svg">
                                                                                                                                      
  <h3 align='center'>Languages and Tools :</h3>
 
