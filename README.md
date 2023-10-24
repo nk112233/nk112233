@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/nk112233"><img width="50" alt="Hello, I'm Nikunj." src="./assets/banner.png" /></a></p>
+<p align="center"><a href="https://github.com/nk112233"><img width="100" alt="Hello, I'm Nikunj." src="./assets/banner.png" /></a></p>
                                                                                                                                      
  <h3 align='center'>Languages and Tools :</h3>
 
