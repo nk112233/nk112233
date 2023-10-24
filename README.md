@@ -22,10 +22,10 @@
 <br/>
 <div
 <a href="https://github.com/nk112233">
-  <img width = "50" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk112233&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
+  <img width = "500" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk112233&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
 </a>
 <a href="https://github.com/nk112233">
-  <img width = "50" height="180" src="https://github-readme-stats.vercel.app/api?username=nk112233&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
+  <img width = "500" height="180" src="https://github-readme-stats.vercel.app/api?username=nk112233&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
 </a>
 </div>
 <br/>
