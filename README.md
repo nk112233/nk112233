@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/nk112233"><h1 align = "center">HI I'm<br>Nikunj</h1></a></p>
+<p align="center"><a href="https://github.com/nk112233"><h1 align = "center" font-family : Ubuntu font-size : 70px>HI I'm<br>Nikunj</h1></a></p>
                                                                                                                                      
  <h3 align='center'>Languages and Tools :</h3>
 
