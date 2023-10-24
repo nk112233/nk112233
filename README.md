@@ -34,7 +34,7 @@
 ### Top Repositories : 
 <div
 <a href="https://github.com/nk112233/DSAL">
-  <img style = "padding-right: 30px;" width = "350" height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=DSAL&theme=radical" />
+  <img style = "padding : 50px 50px;" width = "350" height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=DSAL&theme=radical" />
 </a>
 <a href="https://github.com/nk112233/OOPL">
   <img width = "350" height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=OOPL&theme=radical" />
