@@ -1,4 +1,4 @@
-<img align = "center" src = "https://readme-typing-svg.demolab.com?font=Teko&size=40&duration=1000&pause=400&color=7133FF&center=true&multiline=true&random=false&width=500&height=100&lines=Hi+I'm;NIKUNJ">
+<img align = "right" src = "https://readme-typing-svg.demolab.com?font=Teko&size=40&duration=1000&pause=400&color=7133FF&center=true&multiline=true&random=false&width=500&height=100&lines=Hi+I'm;NIKUNJ">
                                                                                                                                      
  <h3 align='center'>Languages and Tools :</h3>
 
