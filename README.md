@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/nk112233">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=60&duration=2000&pause=1000&color=7133FF&random=false&width=435&lines=Hi+I'm;NIKUNJ)](https://git.io/typing-svg)</a></p>
+<a href="https://github.com/nk112233">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=60&duration=2000&pause=1000&color=7133FF&random=false&width=435&lines=Hi+I'm;NIKUNJ)](https://git.io/typing-svg)</a>
                                                                                                                                      
  <h3 align='center'>Languages and Tools :</h3>
 
