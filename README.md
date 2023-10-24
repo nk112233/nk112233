@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/nk112233"><p align = "center"  font-size : 500px>HI I'm<br>Nikunj</p></a></p>
+<p align="center"><a href="https://github.com/nk112233">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=60&duration=2000&pause=1000&color=7133FF&random=false&width=435&lines=Hi+I'm;NIKUNJ)](https://git.io/typing-svg)</a></p>
                                                                                                                                      
  <h3 align='center'>Languages and Tools :</h3>
 
