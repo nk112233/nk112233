@@ -26,7 +26,7 @@
 </a>
 <a href="https://github.com/nk112233">
   <img width = "400" height="180" src="https://github-readme-stats.vercel.app/api?username=nk112233&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
-</a>[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&color=blueviolet" />](https://www.instagram.com/)
+</a>
 </div>
 <br/>
 <br/>
