@@ -22,10 +22,10 @@
 <br/>
 <div
 <a href="https://github.com/nk112233">
-  <img width = "400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk112233&show_icons=true&locale=en&layout=compact&theme=dracula&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
+  <img width = "400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk112233&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
 </a>
 <a href="https://github.com/nk112233">
-  <img width = "400" height="180" src="https://github-readme-stats.vercel.app/api?username=nk112233&show_icons=true&locale=en&theme=dracula&private_count=true&rank_icon=github" />
+  <img width = "400" height="180" src="https://github-readme-stats.vercel.app/api?username=nk112233&show_icons=true&locale=en&theme=chartreuse-dark&private_count=true&rank_icon=github" />
 </a>
 </div>
 <br/>
@@ -33,10 +33,10 @@
 
 ### Top Repositories : 
 <a href="https://github.com/nk112233/DSAL">
-  <img style = "padding : 50px 50px;" width = "400" height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=DSAL&theme=dracula" />
+  <img style = "padding : 50px 50px;" width = "400" height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=DSAL&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/nk112233/OOPL">
-  <img width = "400" height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=OOPL&theme=dracula" />
+  <img width = "400" height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=OOPL&theme=chartreuse-dark" />
 </a>
 <br/>
 <br/>
