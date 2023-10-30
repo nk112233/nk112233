@@ -47,4 +47,4 @@
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&color=lightgreen&logoColor=black" />](https://twitter.com/)
 
 
-<img  align="right" src="https://komarev.com/ghpvc/?username=nk112233&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
+<img  align="right" src="https://komarev.com/ghpvc/?username=nk112233&label=Profile%20views&color=lightgreen&style=for-the-badge" alt="profile views" />
