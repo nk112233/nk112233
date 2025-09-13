@@ -3,7 +3,9 @@
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=nk112233&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img align = left src="https://streak-stats.demolab.com/?user=nk112233&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  
+<img align = right src="https://counter.kuber.studio/nk112233/hacker/count.svg" alt="Profile views" />
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nk112233&custom_title=Nikunj's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
@@ -104,11 +106,6 @@
 </div>
 
 
-<br>
-
-<img align = right src="https://counter.kuber.studio/nk112233/hacker/count.svg" alt="Profile views" />
-
-<br>
 
 
 
