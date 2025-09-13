@@ -47,4 +47,4 @@
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&color=lightgreen&logoColor=black" />](https://twitter.com/)
 
 
-![Profile views](https://counter.kuber.studio/nk112233/hacker/count.svg)
+<img src="https://counter.kuber.studio/nk112233/hacker/count.svg" alt="Profile views" />
