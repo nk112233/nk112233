@@ -33,8 +33,8 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/nk112233/url-monitoring">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=url-monitoring&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/nk112233/url_monitoring">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=url_monitoring&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
@@ -81,7 +81,8 @@
 
 
 <br>
-
+<img align = right src="https://counter.kuber.studio/nk112233/hacker/count.svg" alt="Profile views" />
+<br>
 <details>
   <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for nk112233&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
@@ -109,4 +110,4 @@
 
 
 
-<img align = right src="https://counter.kuber.studio/nk112233/hacker/count.svg" alt="Profile views" />
+
