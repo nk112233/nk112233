@@ -58,11 +58,6 @@
   </table>
 </div>
 
-<br>
-
-<img align = right src="https://counter.kuber.studio/nk112233/hacker/count.svg" alt="Profile views" />
-
-<br>
 
 ### GitHub Contribution Chart
 <a href="https://github.com/nk112233">
@@ -108,8 +103,12 @@
 
 </div>
 
+
 <br>
 
+<img align = right src="https://counter.kuber.studio/nk112233/hacker/count.svg" alt="Profile views" />
+
+<br>
 
 
 
