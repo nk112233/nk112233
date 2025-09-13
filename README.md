@@ -82,13 +82,6 @@
 
 <br>
 
-### nk112233/README.md activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
-[![Forkers repo roster for @nk112233/nk112233](https://reporoster.com/forks/dark/nk112233/nk112233)](https://github.com/nk112233/nk112233/network/members)
-
-[![Repography](https://reporoster.com/stars/dark/nk112233/nk112233)](https://github.com/nk112233/nk112233)
-
 <details>
   <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for nk112233&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
