@@ -3,7 +3,7 @@
 
 <div align="center">
  
-  <img align = left src="https://streak-stats.demolab.com/?user=nk112233&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img align = center src="https://streak-stats.demolab.com/?user=nk112233&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
 <img align = right src="https://counter.kuber.studio/nk112233/hacker/count.svg" alt="Profile views" />
   <br>
