@@ -57,9 +57,13 @@
     </tr>
   </table>
 </div>
+
 <br>
+
 <img align = right src="https://counter.kuber.studio/nk112233/hacker/count.svg" alt="Profile views" />
+
 <br>
+
 ### GitHub Contribution Chart
 <a href="https://github.com/nk112233">
     <img src="https://ghchart.rshah.org/nk112233" alt="nk112233's GitHub Contribution Chart">
