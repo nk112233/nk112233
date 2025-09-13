@@ -5,7 +5,7 @@
  
   <img src="https://streak-stats.demolab.com/?user=nk112233&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nk112233&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nk112233&custom_title=Nikunj's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nk112233&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=nk112233&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Nikunj's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nk112233&theme=highcontrast&hide_border=true">
 
@@ -34,24 +34,24 @@
     <tr>
       <td>
         <a href="https://github.com/nk112233/url-monitoring">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=url-monitoring&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/nk112233/College-Predictor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=College-Predictor&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/nk112233/pict-connect">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=pict-connect&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/nk112233/Certificate-Generator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nk112233&repo=Certificate-Generator&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -105,7 +105,6 @@
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
     <img src="https://github-profile-trophy.vercel.app/?username=nk112233&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=nk112233" alt="GitHub Trophies for nk112233">
 </details>
 
 
